@@ -1,2 +1,2 @@
 # Twitch-Chat-Bot
-Chat bot que permite manejar pc a traves de comandos
+Bot para el chat de twitch que permite manejar pc a traves de comandos
